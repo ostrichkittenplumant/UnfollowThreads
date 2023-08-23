@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chance": "^1.1.11",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.1"
+  }
+}
